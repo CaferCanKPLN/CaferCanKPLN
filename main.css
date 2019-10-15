@@ -161,7 +161,7 @@ footer{
 /*Videos*/
 .container1{
   width: 1110px;
-  height: 1110px;
+  height: 0 auto;
   margin: 0 auto;
 }
 .v-1{
